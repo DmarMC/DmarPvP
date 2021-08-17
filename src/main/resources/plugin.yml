@@ -1,0 +1,16 @@
+name: DmarPvP
+version: ${project.version}
+main: dev.mqzn.dmar.DmarPvP
+authors: [Mqzn]
+commands:
+  shop:
+  setspawn:
+  stats:
+    aliases: [record]
+  leaderboard:
+    aliases: [lb, top]
+  ranks:
+    aliases: [ranks, ps, prestige]
+permissions:
+  perk.slot.1:
+   default: true

@@ -1,0 +1,22 @@
+MySQL:
+  host: "localhost" # host of your database
+  port: 3306 # default port for MySQL
+  database: "dmar_pvp" # name of your database. A database server can contain multiple databases
+  user: "root"
+  password: "dskgjnsdlkg+Wada6ds"
+Messages:
+  Stats:
+  - "&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m=="
+  - ""
+  - "                       &a<name>'s Stats"
+  - ""
+  - "&9Rank &8» <rank>"
+  - "&eKills &8» &7<kills>"
+  - "&eDeaths &8» &7<deaths>"
+  - "&6Coins &8» &7<coins>"
+  - "&6Points &8» &7<points>"
+  - "&cHighestKillStreak &8» &7<highest_killstreak>"
+  - "&3Perks: &r<perks>"
+  - ""
+  - "&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m==&7&l&m==&8&l&m=="
+
