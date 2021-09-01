@@ -21,7 +21,7 @@ public class PremiumKit extends Kit {
 
     @Override
     public String getDisplayName() {
-        return "&6&lPremium Kit";
+        return "&6Premium Kit";
     }
 
     @Override
@@ -31,7 +31,7 @@ public class PremiumKit extends Kit {
 
     @Override
     public String getDescription() {
-        return "&cPremium Kit requires Premium Rank";
+        return "&ePremium Kit &crequires &6Premium &cRank";
     }
 
     @Override

@@ -64,7 +64,7 @@ public class VipKit extends Kit implements Purchasable {
 
     @Override
     public int getPrice() {
-        return 60000;
+        return 25000;
     }
 
     @Override

@@ -1,6 +1,6 @@
 package dev.mqzn.dmar.core.managers;
 
-import dev.mqzn.dmar.core.kits.EmeraldKit;
+import dev.mqzn.dmar.core.kits.PremiumPlusKit;
 import dev.mqzn.dmar.core.kits.PremiumKit;
 import dev.mqzn.dmar.core.kits.VipKit;
 import dev.mqzn.dmar.core.kits.base.FireItem;
@@ -22,7 +22,7 @@ public class KitManager {
     public KitManager() {
         kits = new Kit[4];
 
-        kits[0] = new EmeraldKit();
+        kits[0] = new PremiumPlusKit();
         kits[1] = new PremiumKit();
         kits[2] = new VipKit();
         kits[3] = new MemberKit();

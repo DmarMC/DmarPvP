@@ -7,11 +7,11 @@ import dev.mqzn.dmar.core.kits.base.KitItem;
 import org.bukkit.Material;
 import java.util.Set;
 
-public class EmeraldKit extends Kit {
+public class PremiumPlusKit extends Kit {
 
     @Override
     public String getUniqueName() {
-        return "emerald";
+        return "premium+";
     }
 
     @Override
@@ -21,7 +21,7 @@ public class EmeraldKit extends Kit {
 
     @Override
     public String getDisplayName() {
-        return "&a&lEmerald Kit";
+        return "&6Premium&4&l+ &6Kit";
     }
 
     @Override

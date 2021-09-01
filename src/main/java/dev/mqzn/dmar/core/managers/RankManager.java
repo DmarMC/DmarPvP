@@ -18,6 +18,7 @@ public class RankManager {
         this.storeRanks();
     }
 
+
     private void storeRanks() {
 
         String[] names = new String[]{"Hunter", "Knight", "Pirate", "Colonel", "Admiral", "Hero", "Master"};
